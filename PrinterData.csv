@@ -1,0 +1,6 @@
+#Sample data CSV for use with CreatePrinters.ps1. Remove this comment before use.
+
+PrinterName,PrintDriver,PortName,PrintIP
+Printer-001,Fake Printer Inc Universal,10.0.0.10,10.0.0.10
+Printer-002,Fake Printer Inc Universal,10.0.0.11,10.0.0.11
+Printer-003,Fake Printer Inc Universal,10.0.0.12,10.0.0.12
